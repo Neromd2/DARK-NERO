@@ -31,19 +31,19 @@ global.APIKeys = {
 
 // Other
 
-global.alivemsg ="HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️"
+global.alivemsg ="HI I'M  ⚜️𝘋𝘐𝘕𝘜 𝘔𝘋⚜️"
                      
 global.alivepic = "https://i.ibb.co/8N6fR4X/Whats-App-Image-2022-09-17-at-21-22-46.jpg" //you logo key 
 
 
-global.ownername = " KAVEESHA " //ur owner name
-global.owner = ['94774579505','']
-global.premium = ['94774579505','94774579505']
-global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.group2 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.packname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.ownername = " 𝘚𝘈𝘕𝘒𝘌𝘛𝘏 " //ur owner name
+global.owner = ['94741199471','']
+global.premium = ['94741199471','94741199471']
+global.botname = '✪𝘋𝘐𝘕𝘜 𝘔𝘋✪'
+global.ownername = '✪𝘋𝘐𝘕𝘜 𝘔𝘋✪'
+global.group1 = 'https://chat.whatsapp.com/EmBzcyhWNAwLyKNFkv6EGS'
+global.group2 = 'https://chat.whatsapp.com/EmBzcyhWNAwLyKNFkv6EGS'
+global.packname = '✪𝘋𝘐𝘕𝘜 𝘔𝘋✪'
 global.ytchannel = 'https://youtu.be/B1ri-AFU5hU'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -64,8 +64,7 @@ global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
 global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
-global.f6 = 'application/vnd.android.package-archive'
-global.author = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.f6 = 'application/vnd.android.✪𝘋𝘐𝘕𝘜 𝘔𝘋✪'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
